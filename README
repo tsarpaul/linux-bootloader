@@ -1,3 +1,13 @@
 # Linux Bootloader
 
 This is a simple bootloader built for eductional purposes
+
+Build:
+```
+make
+```
+
+Run:
+```
+make qemu
+```
