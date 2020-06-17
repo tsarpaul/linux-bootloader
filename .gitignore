@@ -1,0 +1,6 @@
+test/
+build/
+os/
+disk.img
+.gdb*
+*.swp
